@@ -1,6 +1,6 @@
 # Student-Management
 A simple project of Student Management in `Java AWT` for Practicing GUI and `JDBC`. [Database - `MySQL`]
 
-```Screenshot : ``` ![Picture](./Screenshot/Screenshot.PNG?raw=true "Student Management")
+```Video``` [Video](https://drive.google.com/file/d/1RCsjdn_oiY16B-rZMOcgzYrkIAeGImrh/view?usp=drivesdk)
 
-```Video``` [Video](./Video/Video.mp4)
+```Screenshot : ``` ![Picture](./Screenshot/Screenshot.PNG?raw=true "Student Management"
